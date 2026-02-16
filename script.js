@@ -17,7 +17,7 @@ const radius = size / 2 - 25;
 
 const prizes = ["TPCN", "ĐA DA", "DẦU ĂN", "SỮA HẠT"];
 
-/* BỎ COMMENT DÒNG DƯỚI ĐỂ LUÔN TRÚNG TPCN */
+/* Khống chế */
 // const FORCE_PRIZE = "TPCN";
 
 const tetColors = [
