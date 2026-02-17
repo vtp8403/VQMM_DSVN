@@ -15,7 +15,7 @@ canvas.height = size;
 const center = size / 2;
 const radius = size / 2 - 25;
 
-const prizes = ["TPCN", "ĐA DA", "DẦU ĂN", "SỮA HẠT"];
+const prizes = ["TPCN", "ĐA DA", "DẦU ĂN", "CHÚC MỪNG NĂM MỚI"];
 
 /* Khống chế */
 // const FORCE_PRIZE = "TPCN";
